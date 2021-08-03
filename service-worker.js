@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Fyntraa/precache-manifest.4e56c7676604419dd2ff10fed638f70c.js"
+  "/Fyntraa/precache-manifest.692ac6bc77bd1819d106bb7a2f87d82f.js"
 );
 
 self.addEventListener('message', (event) => {
